@@ -1,0 +1,51 @@
+﻿生成启动时间为 2019/5/10 星期五 21:42:58。
+     1>项目“G:\duilib\duilib\DuiLib\DuiLib_Static.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         G:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D UILIB_STATIC /D _VC80_UPGRADE=0x0600 /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Build\Debug_u/DuiLib.pch" /Fo".\Build\Debug_u\\" /Fd".\Build\Debug_u\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Control\UIGifAnim.cpp
+         UIGifAnim.cpp
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(G:\duilib\duilib\DuiLib\.\Build\Debug_u\DuiLib_Static.lib) does not match the Library's OutputFile property value (G:\duilib\duilib\DuiLib\Build\Debug_u\DuiLib_Static_ud.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(DuiLib_Static) does not match the Library's OutputFile property value (DuiLib_Static_ud). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+       Lib:
+         G:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:".\Build\Debug_u\DuiLib_Static_ud.lib" /NOLOGO .\Build\Debug_u\StdAfx.obj
+         .\Build\Debug_u\UIlib.obj
+         .\Build\Debug_u\WinImplBase.obj
+         .\Build\Debug_u\stb_image.obj
+         .\Build\Debug_u\UIDelegate.obj
+         .\Build\Debug_u\Utils.obj
+         .\Build\Debug_u\WndShadow.obj
+         .\Build\Debug_u\XUnzip.obj
+         .\Build\Debug_u\UIBase.obj
+         .\Build\Debug_u\UIContainer.obj
+         .\Build\Debug_u\UIControl.obj
+         .\Build\Debug_u\UIDlgBuilder.obj
+         .\Build\Debug_u\UIManager.obj
+         .\Build\Debug_u\UIMarkup.obj
+         .\Build\Debug_u\UIRender.obj
+         .\Build\Debug_u\UIChildLayout.obj
+         .\Build\Debug_u\UIHorizontalLayout.obj
+         .\Build\Debug_u\UITabLayout.obj
+         .\Build\Debug_u\UITileLayout.obj
+         .\Build\Debug_u\UIVerticalLayout.obj
+         .\Build\Debug_u\UIActiveX.obj
+         .\Build\Debug_u\UIButton.obj
+         .\Build\Debug_u\UICheckBox.obj
+         .\Build\Debug_u\UICombo.obj
+         .\Build\Debug_u\UIDateTime.obj
+         .\Build\Debug_u\UIEdit.obj
+         .\Build\Debug_u\UIGifAnim.obj
+         .\Build\Debug_u\UILabel.obj
+         .\Build\Debug_u\UIList.obj
+         .\Build\Debug_u\UIOption.obj
+         .\Build\Debug_u\UIProgress.obj
+         .\Build\Debug_u\UIRichEdit.obj
+         .\Build\Debug_u\UIScrollBar.obj
+         .\Build\Debug_u\UISlider.obj
+         .\Build\Debug_u\UIText.obj
+         .\Build\Debug_u\UITreeView.obj
+         .\Build\Debug_u\UIWebBrowser.obj
+         DuiLib_Static.vcxproj -> G:\duilib\duilib\DuiLib\.\Build\Debug_u\DuiLib_Static.lib
+     1>已完成生成项目“G:\duilib\duilib\DuiLib\DuiLib_Static.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.20
